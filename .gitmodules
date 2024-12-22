@@ -1,0 +1,24 @@
+[submodule "lib/OPT3001"]
+	path = lib/OPT3001
+	url = https://github.com/node-it/OPT3001.git
+
+[submodule "lib/Adafruit_BME280_Library"]
+	path = lib/Adafruit_BME280_Library
+	url = https://github.com/adafruit/Adafruit_BME280_Library.git
+
+[submodule "lib/Adafruit_BusIO"]
+	path = lib/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+
+[submodule "lib/Adafruit_Sensor"]
+	path = lib/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/FastLED/FastLED.git
+
+[submodule "lib/i2cdetect"]
+	path = lib/i2cdetect
+	url = https://github.com/mcauser/i2cdetect.git
+
